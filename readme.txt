@@ -1,3 +1,3 @@
 nama: gfth
 nim: 71261250
-baris tambahan
+hobiy: jalan-jalan
